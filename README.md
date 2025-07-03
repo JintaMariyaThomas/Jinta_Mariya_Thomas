@@ -19,7 +19,7 @@
 
 ## 🏆 Certifications
 - ✅ SQL (Basic) — HackerRank
-- ✅ Software Development — Simplilearn
+- ✅ What is Software Development? — Simplilearn
 - ✅ Full-Stack Development 101 — Simplilearn
 - ✅ Python Full Stack Developer — IPCS Global, Kottayam (Offline Course)
 
