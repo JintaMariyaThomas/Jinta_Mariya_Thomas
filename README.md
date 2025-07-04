@@ -4,7 +4,7 @@
 
 
 ## ⚙️ Skills
-- **Languages:** Python, C++, JavaScript, HTML, CSS
+- **Languages:** Python,  JavaScript, HTML, CSS
 - **Frameworks & Tools:** Django, Bootstrap, Git, GitHub
 - **Databases:** MySQL
 
